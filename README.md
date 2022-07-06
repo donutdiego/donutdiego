@@ -1,4 +1,4 @@
-Hola, I am Diego Reyes!
+### Hola, I am Diego Reyes!
 
 - 👀 I’m interested in becoming a data analyst.
 - 🌱 I’m currently enrolled in the Coursera Google Data analytics certificate to learn the skills of a data analyst. Also, I am learning the SQL modules from DataCamp.
