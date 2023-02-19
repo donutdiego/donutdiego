@@ -1,6 +1,10 @@
-### Hola, I am Diego Reyes!
+![Diego Reyes GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdiego&theme=maroongold&show_icons=true)
 
-- 👀 I’m interested in becoming a data analyst.
-- 🌱 I’m currently enrolled in the Coursera Google Data analytics certificate to learn the skills of a data analyst. Also, I am learning the SQL modules from DataCamp.
-- 💞️ I’m looking to collaborate on any PowerBI dashboard to gain experience in visualizing data or any SQL project.
-- 📫 Best way to reach me is via my email: xavireyes07@gmail.com
+[![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=youtube-comment-sentiment)](https://github.com/donutdiego/youtube-comment-sentiment.git)
+
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
