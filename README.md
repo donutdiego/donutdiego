@@ -1,7 +1,6 @@
 ![Diego Reyes GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdiego&theme=react&show_icons=true)
 
 [![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=youtube-comment-sentiment&theme=github_dark)](https://github.com/donutdiego/youtube-comment-sentiment.git)
-
 [![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=bigquery-chiago-taxi&theme=github_dark)](https://github.com/donutdiego/bigquery-chiago-taxi)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
