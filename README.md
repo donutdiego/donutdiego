@@ -1,8 +1,8 @@
 ![Diego Reyes GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdiego&theme=react&show_icons=true)
 
-[![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=youtube-comment-sentiment&theme=react)](https://github.com/donutdiego/youtube-comment-sentiment.git)
-[![bigquery-chicago-taxi](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=bigquery-chicago-taxi)](https://github.com/donutdiego/bigquery-chicago-taxi.git)
+[![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=youtube-comment-sentiment&theme=github_dark)](https://github.com/donutdiego/youtube-comment-sentiment.git)
 
+[![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=bigquery-chiago-taxi&theme=github_dark)](https://github.com/donutdiego/bigquery-chiago-taxi)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
