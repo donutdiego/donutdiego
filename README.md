@@ -2,6 +2,7 @@
 
 [![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=youtube-comment-sentiment&theme=github_dark)](https://github.com/donutdiego/youtube-comment-sentiment.git)
 [![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=bigquery-chiago-taxi&theme=github_dark)](https://github.com/donutdiego/bigquery-chiago-taxi)
+[![bigquery-sf-bike-share](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=bigquery-sf-bike-share&theme=github_dark)](https://github.com/donutdiego/bigquery-sf-bike-share)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
