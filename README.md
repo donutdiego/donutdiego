@@ -1,7 +1,9 @@
 <p align="center">
- 
+
 <a href="https://github.com/donutdiego">
-    <img src="https://github-readme-stats.vercel.app/api?username=donutdiego&theme=react&show_icons=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=donutdiego&theme=react&show_icons=true" />
+ </a>
+ 
 </p>
 
 [![youtube-comment-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=donutdiego&repo=youtube-comment-sentiment&theme=github_dark)](https://github.com/donutdiego/youtube-comment-sentiment.git)
